@@ -1,0 +1,51 @@
+# API Keys and Credentials
+credentials.py
+api_keys.json
+.env
+config.php
+wp-config.php
+
+# Firebase
+firebase-config.json
+firebase-adminsdk-*.json
+serviceAccountKey.json
+
+# OAuth tokens
+token.pickle
+client_secrets.json
+*.token
+
+# Production data
+/data/
+/patient_data/
+/user_data/
+*.csv
+*.xlsx
+
+# Logs
+*.log
+/logs/
+
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Production configs
+production.config
+*.production.js
+
+# Sensitive documentation
+/internal_docs/
+/private/
